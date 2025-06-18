@@ -20,3 +20,4 @@ in Terminal 2: ros2 run apriltag_ros apriltag_node --ros-args -r image_rect:=/ca
 
 
 __________________________________________________________________________
+bghgthgfghghyghjnb
